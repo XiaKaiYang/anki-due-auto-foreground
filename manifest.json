@@ -1,0 +1,9 @@
+{
+  "name": "到期自动置顶唤醒 (Due Auto-Foreground & Unminimize for macOS)",
+  "package": "due_reminder",
+  "version": "1.0.0",
+  "author": "XiaKaiYang",
+  "homepage": "https://github.com/XiaKaiYang/anki-due-auto-foreground",
+  "min_point_version": 20,
+  "max_point_version": 0
+}
